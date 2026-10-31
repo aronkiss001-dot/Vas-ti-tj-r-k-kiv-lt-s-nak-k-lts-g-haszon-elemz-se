@@ -13,6 +13,7 @@ Ez a repozitórium a Széchenyi István Egyetemen készült TDK-dolgozat automat
 1. A függőségek telepítése:
 ```bash
 pip install -r requirements.txt
+```
 
 2. Modell futtatása:
 ```bash
